@@ -1,0 +1,45 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Energy",
+      "Nuclear"
+    ],
+    [
+      "Engineering",
+      "Nuclear Engineering"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Nuclear Physics"
+    ],
+    [
+      "Engineering",
+      "Nuclear Engineering",
+      "Nuclear Systems, Policy, and Economics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "4e23cf0f-1b5c-46fa-85a5-f3891b7ea1bb"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Nuclear Reactor Safety",
+  "course_description": "Problems in nuclear engineering often involve applying knowledge from many disciplines simultaneously in achieving satisfactory solutions. The course will focus on understanding the complete nuclear reactor system including the balance of plant, support systems and resulting interdependencies affecting the overall safety of the plant and regulatory oversight. Both the Seabrook and Pilgrim nuclear plant simulators will be used as part of the educational experience to provide as realistic as possible understanding of nuclear power systems short of being at the reactor.\n",
+  "department_numbers": [
+    "22"
+  ],
+  "extra_course_numbers": "22.903",
+  "primary_course_number": "22.091",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Exams",
+    "Lecture Videos",
+    "Problem Sets",
+    "Programming Assignments",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}

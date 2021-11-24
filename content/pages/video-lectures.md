@@ -1,0 +1,8 @@
+---
+content_type: page
+is_media_gallery: true
+title: Video Lectures
+uid: 2ce6efb6-fa84-1572-d6db-1d1d604b0fdb
+---
+
+[Lecture notes and slides]({{< baseurl >}}/pages/lecture-notes) are available for most sessions.{{< video-gallery-item href="/resources/lecture-1-introduction-and-overview" section="Video Lectures" title="Lecture 1: Introduction and overview" description="" thumbnail="https://img.youtube.com/vi/v_NcOpoHBsk/default.jpg" >}} {{< video-gallery-item href="/resources/lecture-2-reactor-physics-review" section="Video Lectures" title="Lecture 2: Reactor physics review" description="" thumbnail="https://img.youtube.com/vi/hov6w7QFjBY/default.jpg" >}} {{< video-gallery-item href="/resources/lecture-3-reactor-kinetics-and-control" section="Video Lectures" title="Lecture 3: Reactor kinetics and control" description="" thumbnail="https://img.youtube.com/vi/SX7B76R8eaQ/default.jpg" >}} {{< video-gallery-item href="/resources/lecture-10-safety-analysis-report-and-loca" section="Video Lectures" title="Lecture 10: Safety analysis report and LOCA" description="" thumbnail="https://img.youtube.com/vi/YQwDoQYAoK0/default.jpg" >}} {{< video-gallery-item href="/resources/lecture-13-integration-of-safety-analysis-into-operational-requirements" section="Video Lectures" title="Lecture 13: Integration of safety analysis into operational requirements" description="" thumbnail="https://img.youtube.com/vi/s2F4FtF6U30/default.jpg" >}} {{< video-gallery-item href="/resources/lecture-24-current-regulatory-safety-issues" section="Video Lectures" title="Lecture 24: Current Regulatory Safety Issues" description="" thumbnail="https://img.youtube.com/vi/8Ji3Gkjqo5M/default.jpg" >}}
